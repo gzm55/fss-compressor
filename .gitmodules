@@ -1,0 +1,12 @@
+[submodule "ext/unishox"]
+	path = ext/unishox
+	url = https://github.com/siara-cc/Unishox.git
+	shallow = true
+[submodule "ext/smaz"]
+	path = ext/smaz
+	url = https://github.com/antirez/smaz.git
+	shallow = true
+[submodule "ext/shoco"]
+	path = ext/shoco
+	url = https://github.com/gzm55/shoco.git
+	shallow = true
